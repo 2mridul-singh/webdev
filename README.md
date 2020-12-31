@@ -6,6 +6,6 @@ Feel free to download and edit my codes, use anything you find here for whatever
 It's always nice if you give me some credit of some sort though :)
 <hr />
 Need help with your code?<br />
-Create a ticket, just shoot me a mail at help@qexle.on.spiceworks.com<br />
+Create a ticket, just shoot me a mail at help@qexle.on.spiceworks.com.<br />
 <br />
 Please use <a href="https://pastebin.com/">PasteBin</a> or some other code sharing service when you share code.
